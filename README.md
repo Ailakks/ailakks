@@ -32,3 +32,9 @@ and much more :)
 ### **Personal projects**
 
 Apart from that, I work on various **personal projects**, some of which are related to **artificial intelligence**. I love exploring **new technologies** and experimenting with them to create **unique solutions** that **solve real-world problems**.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ailakks/ailakks/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ailakks/ailakks/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ailakks/ailakks/output/github-snake.svg" />
+</picture>
